@@ -79,8 +79,7 @@ It integrates:
         Answering student and parent queries on college websites
         Virtual helpdesk for admissions, hostel, academics, etc.
         Research assistant for browsing large policy or curriculum documents
+        
+Output:
 
-✍️ Author
-
-        Sneha Prakash.
-        Built as part of an academic project using state-of-the-art LLM technologies.
+<img width="1617" height="912" alt="infobot" src="https://github.com/user-attachments/assets/1ceccc5d-447e-4421-87ac-9e48e10ef922" />
